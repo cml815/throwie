@@ -16,6 +16,17 @@ body {
     background-color: #efefef;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: "clarendon-text-pro", serif;
+    font-weight: 700;
+}
+
+p {
+    font-family: "clarendon-text-pro", serif;
+    font-weight: 400;
+
+}
+
 .grid-container {
     display: grid;
 }
@@ -26,18 +37,21 @@ body {
     width: 100vw;
 }
 
+.bigged {
+    height: 33vh;
+    background-color: pink;
+}
+
 
 
 /* Social buttons */
 
-
+/* 
 .fab, .far {
-    padding: 20px;
     font-size: 30px;
     width: 50px;
     text-align: center;
     text-decoration: none;
-    border-radius: 50%;
   }
   
   .fab:hover {
@@ -53,4 +67,6 @@ body {
     background: black;
     color: white;
   }
+
+  */
 
