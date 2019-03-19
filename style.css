@@ -1,0 +1,18 @@
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+h1, h2, h3, h4, h5, h6, p, dl, pre, table { margin: 0 0 1rem; }
+ul, ol, blockquote { margin: 0 0 1rem 2rem; }
+
+ul, ol, li {
+    list-style: none;
+}
+
+body {
+    background-color: #efefef;
+}
+
