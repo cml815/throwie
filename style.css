@@ -40,8 +40,21 @@ p {
 .bigged {
     height: 33vh;
     background-color: pink;
+    width: 100%;
 }
 
+.panel__prime {
+    width: 60vw;
+}
+
+.panel__prime h1 {
+    font-size: 5em;
+    letter-spacing: .2rem;
+}
+
+.panel__sub {
+    
+}
 
 
 /* Social buttons */
